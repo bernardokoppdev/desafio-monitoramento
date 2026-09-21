@@ -3,7 +3,7 @@
 ## 1. Identificação
 
 **Aluno:** Bernardo Kopp Pinheiro  
-**Disciplina:** Programação em C  
+**Disciplina:** Algoritmos e Pensamento Computacional
 **Professora:** Profa. Karla Sartin  
 **Projeto:** Sistema Inteligente de Monitoramento Industrial  
 
